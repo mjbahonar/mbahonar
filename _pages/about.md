@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 Welcome 
-
-ایت تست متن فارسیت
